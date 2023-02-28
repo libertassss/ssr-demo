@@ -1,0 +1,16 @@
+.idea
+.DS_Store
+*~
+~*
+
+.nyc_output
+.docz
+.omni_cache
+lib
+es
+build
+.vscode
+.history
+
+*.log
+node_modules
